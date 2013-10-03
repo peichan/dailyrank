@@ -1,0 +1,4 @@
+﻿cron: 
+- description: dailyrank
+  url: /.*
+  schedule: every 12 hours
