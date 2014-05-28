@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #テストコミット
+#プルリクのテスト
 
 import sys
 import twitter
