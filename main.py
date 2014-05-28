@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#テストコミット
+
 import sys
 import twitter
 from GetSongData import song_data_list
